@@ -20,7 +20,7 @@ user.append(
 )
 
 # prepare the API requests
-auth = 'joshua.gleason@strongmind.com', 'password'
+auth = 'myemail', 'mypassword'
 headers = {'Content-Type': 'application/json'}
 url = 'https://smtechhelp.zendesk.com/api/v2/users.json'
 
